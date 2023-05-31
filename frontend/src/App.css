@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&family=Rubik:wght@300;400;500;600&display=swap");
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+:root {
+  --primary-color: #ff6b6b ;
+  --secondary-color : #794afa ;
+  --secondary-dark-color : #453c5c;
+  --white-color : #ffffff;
+  --light-bg-color : #f2f3f5 ;
+  --light-text-color  :#7c899a ;
+  --border-color : #e5e8ec;
+  --dark-color : #0a021c ;
+
+  --font-small : 13px ;
+  --font-smaller  : 11px;
+
+}
+
+
+/* 
+.slider-item{
+  aspect-ratio: 1 / 1;
+  scroll-snap-align: start ;
+}
+
+@media (min-width: 400px) {
+  
+  .slider-item {
+    aspect-ratio: 5 / 3;
+  }
+
+
+}
+
+@media (min-width: 570px) {
+  
+  .slider-item {
+    aspect-ratio: 4 / 2;
+  }
+
+
+}
+@media (min-width: 800px) {
+  
+  .slider-item {
+    aspect-ratio: auto;
+  }
+
+
+} */
+
+
+
+
+
